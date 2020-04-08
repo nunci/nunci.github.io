@@ -18,13 +18,13 @@ Using our built in study mode, *nunci Study*, you can practice your pronunciatio
 * Practice your listening by trying to repeat what you hear by typing or speaking
 * Practice your reading and writing by typing
 
-**Automatic translation**
-
-While building your lexicon, use [Google Translate](https://translate.google.com/) to effortlessly translate your words and phrases to/from the language you are learning.
-
 **High-quality voice synthesis**
 
 nunci uses a number of TTS providers, including [Google Text-to-Speech](https://translate.google.com/), to automatically speak your words or phrases in a number of high-quality voices.
+
+**Automatic translation**
+
+While building your lexicon, use [Google Translate](https://translate.google.com/) to effortlessly translate your words and phrases to/from the language you are learning. However, learning the translations (especially of longer phrases) yourself or with a native speaker might prove to be more accurate than using a machine. Remember, laziness usually doesn't pay off.
 
 **Easily switch between languages**
 
