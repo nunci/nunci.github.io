@@ -4,12 +4,7 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
+## Changelog
 
-<br>
-
-### Coming soon
-# **Version 1.0**
+**Version 1.0**
 You will have to be patient :)
-
-<br>
