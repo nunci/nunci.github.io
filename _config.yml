@@ -11,7 +11,7 @@ playstore_link                            :                                     
 app_icon                                  : assets/icon.png                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : nunci uses artificial intelligence and spaced repetition learning to help advanced language learners practice their pronunciation, listening, reading, writing skills.
+app_description                           : nunci uses artificial intelligence and advanced learning techniques to help language learners practice and improve their pronunciation, listening, reading, and writing skills.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
