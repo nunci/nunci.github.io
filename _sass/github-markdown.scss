@@ -225,6 +225,14 @@ Markdown CSS adopted from https://github.com/sindresorhus/github-markdown-css
   outline-width: 0;
 }
 
+.markdown-body a:link,
+.markdown-body a:hover,
+.markdown-body a:visited,
+.markdown-body a:active {
+	color: $accent-color;
+	text-decoration: none;
+}
+
 .markdown-body strong {
   font-weight: inherit;
   font-weight: bolder;

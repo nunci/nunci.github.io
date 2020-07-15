@@ -1,20 +1,3 @@
-.imageWrapper {					// Sets the background image in the header area
-	height: 714px;
-	background: 
-		linear-gradient(
-		rgba($image-overlay-color, $image-overlay-transparency), 
-		rgba($image-overlay-color, $image-overlay-transparency)
-		   ),
-		
-		url($header-image);
-
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: top;
-	border-radius: 0px 0px 40px 40px;
-
-}
-
 .headerBackground {
 	height: 115px;
 	background-color: rgba($header-color, $header-transparency);
@@ -336,6 +319,7 @@ nav > ul li a:active {
 .downloadButtonsContainer {
 	display: inline-block;
 	margin-top: 42px;
+	page-break-inside: auto;
 	filter: $drop-shadow;
 }
 
@@ -602,7 +586,13 @@ nav > ul li a:active {
 	
 } 
 
-
+a:link,
+a:hover,
+a:visited,
+a:active {
+	color: #fff;
+	text-decoration: none;
+}
 
 // Footer
 
