@@ -6,6 +6,11 @@ include_in_header: true
 
 ## Changelog
 
+**Version 1.3.0** _07/20/2020_
+* Added a discovery page to make it easier to create and find new words or phrases by typing, speaking, taking a picture, and more
+* Updated design and layout to use a tabbed style, making it easier than ever to switch tasks
+* Bug fixes and performance improvements
+
 **Version 1.2.0** _07/14/2020_
 * adding support for Android
 * adding multiple subscriptions so you can choose the best option for you
