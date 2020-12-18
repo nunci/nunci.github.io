@@ -6,6 +6,11 @@ include_in_header: true
 
 ## Changelog
 
+**Version 1.4.0** _08/25/2020_
+- introducing the ability to easily add frequently spoken words to your study collection
+- study mode design updates
+- bug fixes and performance improvements
+
 **Version 1.3.1** _07/27/2020_
 - simplifying nunci's language switching ability
 - design updates
