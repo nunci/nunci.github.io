@@ -6,6 +6,13 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.0.0** _05/08/2021_
+- all new, polished and streamlined design
+- advanced study options to help you learn your language fast
+- add media and other attachments to your notes
+- view statistics about your study history
+- many bug fixes and performance improvements
+
 **Version 1.4.0** _08/25/2020_
 - introducing the ability to easily add frequently spoken words to your study collection
 - study mode design updates

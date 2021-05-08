@@ -19,10 +19,10 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Nifty Apps, LLC
-your_link                                 : https://niftyapps.dev
+your_link                                 :
 your_city                                 :
 email_address                             : nifty@niftyapps.dev
-facebook_username                         :
+facebook_username                         : nunci-113432470463274
 instagram_username                        :
 twitter_username                          :
 github_username                           :
@@ -32,6 +32,14 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
+
+  - title                                 : Capture your language
+    description                           : Let nunci help you improve and build your knowledge
+    fontawesome_icon_name                 : language
+
+  - title                                 : Learn fast
+    description                           : Study nunci's automatically generated, intelligent flashcards
+    fontawesome_icon_name                 : brain
 
   - title                                 : Practice your pronunciation
     description                           : Speak and nunci will correct your pronunciation
@@ -45,17 +53,9 @@ features                                  :
     description                           : Type with nunci to help your reading, writing, and spelling
     fontawesome_icon_name                 : keyboard
 
-  - title                                 : Improve your lexical diversity
-    description                           : Let nunci help you create your own word bank
-    fontawesome_icon_name                 : stream
-
-  - title                                 : Automatically translate between languages
-    description                           : Effortlessly translate your words and phrases to/from the language you are learning
-    fontawesome_icon_name                 : language
-
-  - title                                 : Easily switch between languages
-    description                           : Switch between languages you are learning with ease
-    fontawesome_icon_name                 : globe-asia
+  - title                                 : Track your progress
+    description                           : View statistics about your study habits, results, and more
+    fontawesome_icon_name                 : chart-line
 
 
 

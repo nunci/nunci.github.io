@@ -4,28 +4,36 @@ title: About
 include_in_header: true
 ---
 
-nunci uses [artificial intelligence](https://en.wikipedia.org/wiki/Natural_language_processing) and [spaced repetition learning](https://en.wikipedia.org/wiki/Spaced_repetition) to help advanced language learners practice their pronunciation, listening, reading, writing skills.
+nunci uses [artificial intelligence](https://en.wikipedia.org/wiki/Natural_language_processing) and [spaced repetition learning](https://en.wikipedia.org/wiki/Spaced_repetition) to help advanced language learners practice their speaking, listening, reading, writing skills.
 
-**Practice your skills with *nunci Study***
+**Capture your language**
 
-Using our built in study mode, *nunci Study*, you can practice your pronunciation, listening, reading, or writing. [Artificial intelligence](https://en.wikipedia.org/wiki/Natural_language_processing) and [spaced repetition learning](https://en.wikipedia.org/wiki/Spaced_repetition) helps you frequently and effortlessly revisit the words or phrases that you have the most difficultly remembering.
+When you learn something new, all you need to do is to input a note. nunci will take care of the rest. Notes can be sentences, words, phrases, lexemes, or any other part of the language you're learning. Attach images, sounds, locations, text, or other data to your note to help you remember later.
 
-* Practice your pronunciation by speaking with nunci
-* Practice your listening by trying to repeat what you hear by typing or speaking
-* Practice your reading and writing by typing
+**Practice your language skills**
 
-**Improve your lexical diversity with *nunci Vocab***
+With the help of nunci, you don't need to worry about creating or organizing flashcards. nunci intelligently creates flashcards based on your notes, and then tells you when you need to study them using [spaced repetition learning](https://en.wikipedia.org/wiki/Spaced_repetition).
 
-Use our built in word bank, *nunci Vocab*, to keep track of all your newly discovered nouns, adjectives, verbs, pronouns, adverbs, phrases, grammatical concepts, keywords, expressions, statements, tokens, types, and maybe... emojis 🤓 Easily add these lexical tidbits in your native language, or the language you are learning. Take notes, filter words to find and study them later.
+For every note that you input, nunci creates multiple flashcards to help you improve on each of the four language skills: speaking, listening, reading, and writing:
 
-**High-quality voice synthesis**
+* *Speaking* flashcards help you remember how to pronounce a note by using [artificial intelligence](https://en.wikipedia.org/wiki/Natural_language_processing) to detect what you are saying.
+* *Listening* flashcards help you understand speech by listening to a person speaking.
+* *Reading* flashcards help you understand how to read by showing you the language you're learning and asking you to type the translation in your native language.
+* *Writing* flashcards help you understand how to write by showing you your native language and asking you to type or draw the translation in the language you're learning.
 
-nunci uses a number of TTS providers, including [Google Text-to-Speech](https://translate.google.com/), to automatically speak your words or phrases in a number of high-quality voices.
+nunci shows you these flashcards more often if you have trouble remembering them. Your flashcards are categorized into different states, depending on how long you have been studying them:
 
-**Automatic translation**
+* *New* flashcards have never been practiced before.
+* *Learning* flashcards have been practiced, but have not received good enough ratings to be placed in review.
+* *Review* flashcards have been practiced and rated high enough consistently to graduate from learning.
+* *Relearning* flashcards are review flashcards that you have rated low enough to move back to learning.
 
-While building your lexicon, use [Google Translate](https://translate.google.com/) to effortlessly translate your words and phrases to/from the language you are learning. However, learning the translations (especially of longer phrases) yourself or with a native speaker might prove to be more accurate than using a machine. Remember, laziness usually doesn't pay off.
+In order to master a language, you should practice all of these skills regularly. If you wish to change which skills are practiced or how nunci shows you flashcards, please see the settings page.
 
-**Easily switch between languages**
+**Track your progress**
 
-Already a multi-lingual prodigy? Switch between languages you are learning and the language of the application itself.
+View statistics about your study habits, results, and more.
+
+**Language support**
+
+nunci supports 38 languages and counting. Please contact us if you would like another language supported.
