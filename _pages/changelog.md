@@ -6,6 +6,12 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.1.0** _05/14/2021_
+- daily reminders to help keep you on your game
+- app icon badge indicating the number of flashcards you need to study
+- stunning premium themes
+- lightning fast performance improvements
+
 **Version 2.0.0** _05/08/2021_
 - all new, polished and streamlined design
 - advanced study options to help you learn your language fast
