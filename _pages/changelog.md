@@ -6,6 +6,11 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.2.0** _05/16/2021_
+- quickly and easily add notes by typing, speaking, taking a picture, or copying from your clipboard
+- adding an in-app badge on the study icon to help you remember to study
+- performance updates and bug fixes
+
 **Version 2.1.0** _05/14/2021_
 - daily reminders to help keep you on your game
 - app icon badge indicating the number of flashcards you need to study
