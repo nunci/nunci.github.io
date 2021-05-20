@@ -6,6 +6,10 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.3.0** _05/21/2021_
+- filter and sort your notes by accuracy, dates, text, and more to effortlessly find that note you're looking for
+- bug fixes and performance improvements
+
 **Version 2.2.0** _05/16/2021_
 - quickly and easily add notes by typing, speaking, taking a picture, or copying from your clipboard
 - adding an in-app badge on the study icon to help you remember to study
