@@ -6,7 +6,7 @@ include_in_header: true
 
 ## Changelog
 
-**Version 2.3.0** _05/27/2021_
+**Version 2.4.0** _05/27/2021_
 - swipe up or down when pronouncing to practice speaking multiple notes quickly
 - snooze (or delay) individual flashcards until later
 - improved speaking feedback to better help you understand what you mispronounced
