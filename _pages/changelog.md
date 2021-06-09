@@ -6,6 +6,17 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.5.0** _06/10/2021_
+- all new helpful whole-word keyboard when learning notes for the first few times
+- notifications for goals you've reached and want to reach
+- fine-tuned notification controls
+- improved intelligent flashcard generation algorithm
+
+**Version 2.4.1** _06/04/2021_
+- new statistics about your notes
+- haptic feedback polish
+- bug fixes and performance improvements
+
 **Version 2.4.0** _05/27/2021_
 - swipe up or down when pronouncing to practice speaking multiple notes quickly
 - snooze (or delay) individual flashcards until later
