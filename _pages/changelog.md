@@ -6,6 +6,18 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.5.3** _06/19/2021_
+- bug fixes and performance improvements
+- improving Vietnamese localization
+
+**Version 2.5.2** _06/14/2021_
+- updated onboarding flow
+- performance improvements when creating notes
+
+**Version 2.5.1** _06/12/2021_
+- fresh updates to the user interface and experience
+- displaying time intervals when rating flashcards
+
 **Version 2.5.0** _06/10/2021_
 - all new helpful whole-word keyboard when learning notes for the first few times
 - notifications for goals you've reached and want to reach
