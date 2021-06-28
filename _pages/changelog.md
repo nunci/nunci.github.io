@@ -6,6 +6,13 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.6.0** _06/29/2021_
+- effortlessly import your notes from a spreadsheet
+- improvements to nunci's flashcard scheduling algorithm
+- adding the option to save your progress if you leave a study session
+- retry speaking flashcards before seeing your score
+- submit your partial study session if you need to exit before completing the entire session
+
 **Version 2.5.3** _06/19/2021_
 - bug fixes and performance improvements
 - improving Vietnamese localization
