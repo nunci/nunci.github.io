@@ -20,14 +20,14 @@ When you use [nunci](https://nunci.app), you only need to worry about telling us
 <br>
 <div style="text-align:center">
 <em>Figure 1:<br></em>
-<img src="/images/spaced-repetition-ratings-short.jpg" width="50%"/>
+<img id="blog-img" src="/images/spaced-repetition-ratings-short.jpg" width="50%"/>
 <br>
 <em>Difficultly ratings in nunci when answering a new flashcard<br></em>
 </div>
 <br>
 <div style="text-align:center">
 <em>Figure 2:<br></em>
-<img src="/images/spaced-repetition-ratings-full.jpg" width="50%"/>
+<img id="blog-img" src="/images/spaced-repetition-ratings-full.jpg" width="50%"/>
 <br>
 <em>Difficultly ratings in nunci when answering an older flashcard</em>
 </div>

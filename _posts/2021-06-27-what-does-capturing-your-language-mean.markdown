@@ -25,7 +25,7 @@ nunci makes it possible for you to effortlessly capture notes from your personal
 
 <br>
 <div style="text-align:center">
-<img src="/images/add-note.jpeg" width="50%"/>
+<img id="blog-img" src="/images/add-note.jpeg" width="50%"/>
 <br>
 <em>Input a note with nunci<br></em>
 </div>
