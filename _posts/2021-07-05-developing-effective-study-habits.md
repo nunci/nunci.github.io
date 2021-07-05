@@ -11,7 +11,7 @@ date:   2021-07-05 10:18:07 +0700
 <img id="blog-img" src="/images/japanese-notes.jpg" width="50%"/>
 </div>
 
-Here are 8 quick tips to help you level up your language acquisition.
+How do some people seem to learn languages so effortlessly? Do you wonder how you can do the same? Here are 8 quick tips to help you level up your language acquisition.
 
 ### 1. Study first thing in the morning
 
