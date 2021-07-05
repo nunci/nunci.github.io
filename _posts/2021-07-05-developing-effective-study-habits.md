@@ -46,6 +46,10 @@ When using [nunci](https://nunci.app), aim to study as many of the [automaticall
 
 Which app do you almost instinctively open when you reach for your phone? You know, the app that you can open with muscle-memory alone? Replace it with [nunci](https://nunci.app). We guarantee you won't forget that you have to study today :)
 
+<div style="text-align:center">
+<img src="/images/rearrange-apps.gif" width="200px"/>
+</div>
+
 ### 8. Find your balance
 
 Don't spend all your time cramming vocabulary or using your next language in a single context. Get outside your comfort zone. Learn to speak the way native speakers do by talking with people. Practice speaking and writing your own thoughts as much as listening and reading to others. Use [nunci](https://nunci.app) to practice all four language skills, then leave your comfort zone and practice in as many uncomfortable situations as possible.
