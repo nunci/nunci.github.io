@@ -6,6 +6,14 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.7.2** _07/10/2021_
+- again and too easy buttons when studying
+- dynamic link reliability improvements
+- bug fixes and performance improvements
+
+**Version 2.7.1** _07/07/2021_
+- bug fixes and performance improvements
+
 **Version 2.7.0** _07/05/2021_
 - daily streaks to help keep you on your game
 - beautiful heatmap to visualize your study habits
