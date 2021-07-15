@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "7 Tips For Staying Motivated While Learning A Language"
-description: "Using statistics to track and help you stay on your game."
+description: "Ideas to help you get a little extra motivation on your language learning journey"
 date:   2021-07-10 10:18:07 +0700
 ---
 
