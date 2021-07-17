@@ -6,6 +6,16 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.8.1** _07/17/2021_
+- personalized, interactive reminder notifications
+- improvements to the speaking algorithm
+- added a setting to customize the easy interval for flashcards
+
+**Version 2.8.0** _07/15/2021_
+- incremental progress updates when adding notes or completing study sessions
+- hiding reading, writing, and listening flashcard choices before answering
+- other bug fixes and performance improvements
+
 **Version 2.7.2** _07/10/2021_
 - again and too easy buttons when studying
 - dynamic link reliability improvements
