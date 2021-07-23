@@ -6,6 +6,13 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.9.0** _07/23/2021_
+- add tags when creating or editing notes
+- filter by tags on the browse screen
+- adding multiple note selection to easily tag or delete many notes at once
+- design updates
+- bug fixes and performance improvements
+
 **Version 2.8.1** _07/17/2021_
 - personalized, interactive reminder notifications
 - improvements to the speaking algorithm
