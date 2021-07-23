@@ -4,7 +4,18 @@ title: About
 include_in_header: true
 ---
 
-nunci uses [artificial intelligence](https://en.wikipedia.org/wiki/Natural_language_processing) and [spaced repetition learning](https://en.wikipedia.org/wiki/Spaced_repetition) to help advanced language learners practice their speaking, listening, reading, writing skills.
+## nunci
+
+Automatically generate flashcards from your language notes.
+
+nunci is an intelligent language learning notebook, assistant, and companion that helps you record what you learn and effectively study what you record so that you can save time, learn effectively, and stay focused on what matters most. Like your own personal teacher, nunci will automatically create lessons for you based on the notes you create.
+
+* Create media-rich notes from your life and the world around you
+* Study your notes with our automatically-generated, intelligently-scheduled flashcards
+* Practice your pronunciation with specific feedback on your mistakes
+* Practice your listening with natural sounding, HD voices
+* Track your progress with our robust statistics
+* Personalized reminders to help you stick to your goals
 
 **Capture your language**
 
