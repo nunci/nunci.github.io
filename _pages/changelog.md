@@ -6,7 +6,32 @@ include_in_header: true
 
 ## Changelog
 
+**Version 2.11.1** _08/04/2021_
+<br>We are always working to keep nunci working smoothly! Enjoy a few small fixes, on us :)
+
+- Japanese, Korean, and Chinese pronunciation analyzer improvements
+- performance improvements and bug fixes
+
+**Version 2.11.0** _08/01/2021_
+<br>Introducing nunci Core Lists! Easily add basic core words and example sentences from our curated lists.
+
+- add core notes from the expanded add note menu
+- bug fixes and performance improvements
+
+**Version 2.10.1** _07/30/2021_
+<br>We are always working to keep nunci working smoothly! Enjoy a few small fixes, on us :)
+
+- performance improvements and bug fixes
+
+**Version 2.10.0** _07/28/2021_
+<br>Introducing our latest and greatest custom study features! Study your notes whenever you like.
+
+- study your notes at anytime with our custom study features
+- performance improvements
+
 **Version 2.9.0** _07/23/2021_
+<br>Introducing tags! Organize and find your notes by category.
+
 - add tags when creating or editing notes
 - filter by tags on the browse screen
 - adding multiple note selection to easily tag or delete many notes at once
