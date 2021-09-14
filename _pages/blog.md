@@ -8,6 +8,6 @@ include_in_header: true
 {% for post in site.posts %}
 
 ### <a href="{{ post.url | relative_url }}" target="_self">{{ post.title }}</a>
-`{{ post.date | date: date_format }}`  {{ post.description }}
+{{ post.description }}
 <br><br>
 {% endfor %}
