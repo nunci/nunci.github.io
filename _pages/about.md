@@ -6,7 +6,9 @@ include_in_header: true
 
 ## nunci
 
-Automatically generate flashcards from your language notes.
+<p>Nice to meet you! My name is <a href="https://nicholastrampe.com/" target="_blank">Nicholas Trampe</a> and I built nunci as a way to help me master my Vietnamese.</p>
+
+Check your pronunciation, listening, reading, and spelling with nunci, your personal pronunciation coach. Learn languages effectively with our intelligent flashcards.
 
 nunci is an intelligent language learning notebook, assistant, and companion that helps you record what you learn and effectively study what you record so that you can save time, learn effectively, and stay focused on what matters most. Like your own personal teacher, nunci will automatically create lessons for you based on the notes you create.
 
